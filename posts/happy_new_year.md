@@ -3,7 +3,7 @@ Title: Happy New Year
 Date: 2018-12-31 23:59
 Modified: 2019-01-01 00:01
 Tags: python, machine-learning, trusted-analytics
-Slug: my-super-post
+Slug: happy-new-year
 Authors: John Doe, Jane Smith
 blogimage: fireworks.png
 Summary: This is a short description of my post
