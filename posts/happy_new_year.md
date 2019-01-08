@@ -44,7 +44,7 @@ Or on the internet:
     * sub
         1. structure     
 
-We can render $\LaTeX$ and $\alpha, \beta$ inline, or in a block:
+We can render $\LaTeX$ inline, or in a block:
 
 $$ f(x) = \int_0^1 \sum_{n=1}^\infty \frac{1}{x^n}\, \mathrm{d}x $$
 
@@ -63,12 +63,6 @@ some
 import pandas as pd
 
 print("This code is syntax-highlighted!")
-
-def foo(val):
-    pass
-
-class Foo(object):
-    pass
 
 ```
 
